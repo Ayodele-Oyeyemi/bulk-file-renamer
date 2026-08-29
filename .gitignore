@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.bulk_rename_log.json
+.DS_Store
+venv/
+.vscode/
+.idea/
