@@ -2,8 +2,6 @@
 
 A simple, dependency-free Python CLI tool for renaming multiple files at once.
 
-No third-party libraries required — just Python's standard library.
-
 ## Features
 
 - ✅ Add a prefix and/or suffix to filenames
